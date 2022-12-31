@@ -12,10 +12,6 @@ I have been playing chess since primary school and one day I had an idea to impl
 This repository is a result of following his videos,  sometimes coming up with some improvements on my own. Hereby, I highly
 encourage you to visit his YouTube channel and check the whole series by yourself.
 
-[Eddie's YouTube channel](https://www.youtube.com/channel/UCaEohRz5bPHywGBwmR18Qww)
-
-[First episode of "Chess engine in Python"](https://www.youtube.com/watch?v=EnYui0e73Rs&ab_channel=EddieSharick)
-
 ## Technologies
 * Python 3.7.8
 * pygame 2.0.1
